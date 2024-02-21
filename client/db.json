@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": "a17f",
+      "title": "Wooden Table",
+      "briefDescription": "Fine Quality wood used to make this ",
+      "price": "10000",
+      "ownerName": "vivek jha",
+      "userID": "vivek@123",
+      "date": "2024-02-06T10:47:35.739Z"
+    },
+    {
+      "id": "f241",
+      "title": "Samsung Galaxy note 3",
+      "briefDescription": "6 month old phone in good condition with all documents and bill.",
+      "price": "9990",
+      "ownerName": "vivek jha",
+      "userID": "vivek@123",
+      "date": "2024-02-06T11:33:56.532Z"
+    },
+    {
+      "id": "04c6",
+      "title": "Casio Watch",
+      "briefDescription": "Limited edition series watch in good condition with bill. ",
+      "price": "1500",
+      "ownerName": "vivek jha",
+      "userID": "vivek@123",
+      "date": "2024-02-08T11:16:47.755Z"
+    },
+    {
+      "id": "2319",
+      "title": "airpods",
+      "briefDescription": "Oppo airpods white color only 3 month older",
+      "price": "4984",
+      "ownerName": "Avneesh panday",
+      "userID": "vivek@123",
+      "date": "12 February 2024"
+    },
+    {
+      "id": "4608",
+      "title": "Boat Headset",
+      "briefDescription": "Boat Headset in good condition available bill and 6 month warranty remaining.",
+      "price": "3000",
+      "ownerName": "vivek jha",
+      "userID": "vivek@123",
+      "date": "12 February 2024"
+    },
+    {
+      "id": "8b39",
+      "title": "",
+      "briefDescription": "",
+      "price": "",
+      "ownerName": "",
+      "file": {},
+      "fileName": "8406232 (3).jpg",
+      "userID": "vivek@123",
+      "date": "13 February 2024"
+    },
+    {
+      "id": "3226",
+      "title": "vivek",
+      "briefDescription": "aeorueioSDASE",
+      "price": "7877898",
+      "ownerName": "KSJDHAJKSDH",
+      "file": {},
+      "userID": "vivek@123",
+      "date": "20 February 2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1beb",
+      "userName": "vivek jha",
+      "userID": "vivek@123",
+      "password": "12345678"
+    }
+  ]
+}

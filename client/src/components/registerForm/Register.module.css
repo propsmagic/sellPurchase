@@ -1,0 +1,58 @@
+.registerForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 540px;
+    position: relative;
+}
+
+.registerForm form{
+    width: 540px;
+    background-color:rgba(0, 255, 255, 0.527);
+    padding: 2rem;
+    border-radius: 1.5rem;
+}
+/* .registerForm form::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url("../../../public/media/fnlogo.png") no-repeat center;
+    background-size: 61%;
+    opacity: 0.5;
+} */
+.registerForm h3{
+    color: #273aa3;
+}
+.inputGroup{
+    display: grid;
+    grid-template-columns: 100%;
+}
+.incorrect{
+    font-size: 10px;
+    color: red;
+}
+.correct{
+    font-size: 10px;
+    color: green;
+}
+.registerForm input{
+    height: 2rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.registerForm div{
+    margin-bottom: 10px;
+}
+
+.registerForm label{
+    line-height: 2rem;
+}
+
+form a{
+    font-size: 1rem !important;
+    color: #273aa3;
+    float: right;
+}

@@ -1,0 +1,11 @@
+
+.mainContentContainer{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    width: 1200px;
+    margin: 2rem auto auto auto;
+}
+.notFound{
+    text-align: center;
+    color: #ccc;
+}

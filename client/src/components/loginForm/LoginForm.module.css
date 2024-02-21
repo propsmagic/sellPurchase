@@ -1,0 +1,53 @@
+
+.login{
+    position: relative;
+    background-image: url('../../../public/media/product-background.jpg');
+    background-size: cover;
+}
+.login::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255,0.5);
+}
+.loginForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 540px;
+    position: relative;
+}
+.loginForm form{
+    width: 540px;
+    background-color:#7bfcdf;
+    padding: 2rem;
+    border-radius: 1.5rem;
+}
+.loginForm h3{
+    color: #273aa3;
+}
+.inputGroup{
+    display: grid;
+    grid-template-columns: 100%;
+}
+.loginForm input{
+    height: 2rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.loginForm div{
+    margin-bottom: 10px;
+}
+
+.loginForm label{
+    line-height: 2rem;
+}
+
+form a{
+    font-size: 0.5 rem !important;
+    color: #273aa3;
+    text-align: right;
+}

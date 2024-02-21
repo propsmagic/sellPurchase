@@ -1,0 +1,28 @@
+.card{
+    display: grid;
+    padding: 10px;
+    background-color: rgb(236, 247, 243);
+    margin: 10px;
+    border: 1px solid #7c8ff8;
+    border-radius: 0.5rem;
+}
+
+.card img{
+    max-width: 100%;
+    border-radius: 0.5rem;
+}
+
+.card h3{
+    color: #273aa3;
+}
+
+.card p,.card h3{
+    margin: 0;
+    padding-left: 10px;
+}
+
+.cardFooter{
+    grid-column: 1 / span 2;
+    grid-row: 2;
+    float: right;
+}
